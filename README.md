@@ -1,1 +1,1 @@
-# guvi_CodeKata
+# guvi-CodeKata
